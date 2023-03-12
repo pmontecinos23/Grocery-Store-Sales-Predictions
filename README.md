@@ -51,8 +51,7 @@
   
  ## For further information
   * For any additional questions, please contact Paul at paul_montecinos23@gmail.com
-  * 
-
+ 
 
   
 
