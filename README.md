@@ -16,6 +16,7 @@
  * Once data was cleaned preprocesses fit data to models
  
  ## Exploratory Data Visuals
+ ![Sales pred](https://user-images.githubusercontent.com/29460152/224519094-6ed8acf1-115b-472d-9f5b-a041609ec416.png)
  
  
  ## Results
