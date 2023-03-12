@@ -41,7 +41,7 @@
   * The R^2 score shows we can explain 59% of the variation in the target
 
  ## Recommendations
-  * Recommend more tune, models and DATA
+  * Recommend more tuning, models and DATA
 
  ## Limitations
   * The amount of data
